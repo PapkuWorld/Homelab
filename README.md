@@ -1,5 +1,6 @@
 # Stuff in the homelab
 
+AI Brain Computer 
 
 Kali Machine 
 
@@ -19,10 +20,32 @@ Jellyfin Server
 
 IRC Debian Server 
 
-
 Zabbix
 
 Wireshark
 
 OPNSense
+
+Isolated Network
+
+Metasploitable Instance (VM)
+
+Secure Testing Invironment (VM)
+
+OWASP Juice Shop Instance (VM)
+
+Secure Testing Invironment (VM)
+
+Damn Vulnerable Web Application Instance (VM)
+
+Secure Testing Invironment (VM)
+
+Hackthebox (Learn)
+
+Tryhackme (Learn)
+
+OverTheWire (Learn)
+
+
+
 
